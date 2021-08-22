@@ -1,0 +1,10 @@
+[
+    {
+        "name": "redfin",
+        "xpath": "//div[@class='statsValue']//span/text()"
+    },
+    {
+        "name": "zillow",
+        "xpath": "//div[@id='home-details-home-values']//h3/text()"
+    }
+]
